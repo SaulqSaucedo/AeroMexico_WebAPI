@@ -10,3 +10,5 @@ Configuración proyecto de inicion Web.API
 <img width="351" height="614" alt="image" src="https://github.com/user-attachments/assets/70a0496c-bf74-44b1-a30c-c8e9ea788fc3" />
 
 
+IMPORTANTE: 
+TOKEN DUMMY: rYejThPK9G1NEAP4lKsiCp5e2dn9
